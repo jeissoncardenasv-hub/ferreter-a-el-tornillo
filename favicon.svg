@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="ferreteriaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#ea580c" />
+    </linearGradient>
+  </defs>
+  <!-- Fondo redondeado con el gradiente de marca -->
+  <rect width="64" height="64" rx="14" ry="14" fill="url(#ferreteriaGrad)" />
+  <!-- Ícono de tuerca y tornillo de Ferretería El Tornillo -->
+  <g transform="translate(14, 14) scale(1.5)" fill="#ffffff">
+    <path d="M12 2a1 1 0 0 1 1 1v2.07a8.002 8.002 0 0 1 6.93 6.93H22a1 1 0 1 1 0 2h-2.07a8.002 8.002 0 0 1-6.93 6.93V21a1 1 0 1 1-2 0v-2.07A8.002 8.002 0 0 1 4.07 12H2a1 1 0 1 1 0-2h2.07A8.002 8.002 0 0 1 11 3.07V3a1 1 0 0 1 1-1zm0 5a5 5 0 1 0 0 10 5 5 0 0 0 0-10zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4z" />
+  </g>
+</svg>
